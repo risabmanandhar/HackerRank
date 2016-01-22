@@ -2,7 +2,7 @@ package Hackerrank30DaysCompetition;
 
 import java.util.Scanner;
 
-public class Arithmetic {
+public class Day2 {
 
     public static void main(String[] args) {
 
